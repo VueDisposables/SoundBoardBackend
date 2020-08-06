@@ -19,6 +19,7 @@
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 .idea
 /target/
 target/
@@ -29,3 +30,7 @@ node_modules
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 37a3e901756a891ae145f400904ac9d2608d4aa3
